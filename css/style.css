@@ -1,0 +1,22 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron {
+    height: 450px;
+    background-image: url(../img/header2.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: 0 -140px;
+    overflow: hidden;
+    position: relative;
+}
+
+section {
+    min-height: 200px;
+}
+
+footer {
+    min-height: 50px;
+    padding-top: 12px;
+}
